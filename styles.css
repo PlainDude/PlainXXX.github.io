@@ -1,0 +1,25 @@
+html {
+    background-image: url("B1.jpg");
+    background-size: cover;
+}
+.body {
+    -webkit-text-stroke-color: aliceblue;
+}
+html, body {
+    margin:0px;
+    padding:0px;
+}
+
+* {
+    box-sizing: border-box;
+    font-family:sans-serif
+}
+
+.nav ul {
+    margin:0px;
+}
+.main-header {
+    background-image: url("Header Background.jpg");
+    background-size: cover;
+    padding-bottom: 40px;
+}
